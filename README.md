@@ -1,7 +1,7 @@
 # Digit Recognizer
-## Intrduction
+## Introduction
 Digit Recognizer is a C++ project that uses the Intel® Data Analytics Acceleration Library (Intel® DAAL)<br/>
-to recognize handwritten digits. This is a tipical type of machine learning problems that can be solved in many different ways.<br/>
+to recognize handwritten digits. This is a tipical problem in machine learning that can be solved in many different ways.<br/>
 This solution to the problem uses Support Vector Machine (SVM), a supervised learning model, to demonstrate how the library algorithms in Intel® DAAL can be used to solve this problem.
 ## Project Description
 Given a handwritten digit, the system should be able to recognize or infer what digit was written.<br/>
